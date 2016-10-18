@@ -1,9 +1,11 @@
-package Test;
-
-
-public class Test {
-    public static void main(String[] args)  {
-        char[][] board = new char[10][10];
+/**
+ * Created by XiaochengWen on 16/10/18.
+ */
+public class BattleshipsInABoard {
+    public int countBattleships(char[][] board) {
+        if (board.length==0 || board[0].length==0){
+            return 0;
+        }
         int m = board.length;
         int n = board[0].length;
         int count = 0;
@@ -14,5 +16,6 @@ public class Test {
                 }
             }
         }
+        return count;
     }
 }
