@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JAVA.iml" filepath="$PROJECT_DIR$/JAVA.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode/Leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TIJ4-code/innerclasses/innerclasses.iml" filepath="$PROJECT_DIR$/../TIJ4-code/innerclasses/innerclasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TIJ4-code/innerclasses/innerclasses1.iml" filepath="$PROJECT_DIR$/../TIJ4-code/innerclasses/innerclasses1.iml" />
       <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled/untitled.iml" filepath="$PROJECT_DIR$/untitled/untitled.iml" />
       <module fileurl="file://$PROJECT_DIR$/加密/加密.iml" filepath="$PROJECT_DIR$/加密/加密.iml" />
